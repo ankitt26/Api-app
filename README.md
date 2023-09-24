@@ -21,14 +21,11 @@
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
-  - [📽️ Presentation ](#️-presentation-)
-  - [🚀 Live Demo ](#-live-demo-)
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
     - [Install](#install)
     - [Usage](#usage)
-    - [Run tests](#run-tests)
   - [👥 Authors ](#-authors-)
   - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
@@ -59,22 +56,6 @@ The API-app is an API project to show the API of Car.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- VIDEO PRESENTATION -->
-
-## 📽️ Presentation <a name="live-demo"></a>
-
-> [📷 see video ](https://www.loom.com/share/fadf02e040d047be85d10a23f0d2a5b6?sid=6e4bef91-4d4f-4d34-ac4b-76e2af157546)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LIVE DEMO -->
-
- ## 🚀 Live Demo <a name="live-demo"></a>
-
-> [🎉 see live ](https://API-app-ankit.onrender.com)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p> 
-
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
@@ -97,7 +78,7 @@ Example commands:
 
 ```sh
   cd my-folder
-  git clone git@github.com:ankitt26/API-app.git
+  git clone git@github.com:ankitt26/Api-app.git
 ```
 
 ### Install
@@ -119,16 +100,7 @@ Example command:
   rails s
 ```
 
-### Run tests
 
-To run tests, run the following command:
-
-Example command:
-
-```sh
-  rails db:reset RAILS_ENV=test
-  rspec spec
-```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -149,7 +121,6 @@ Example command:
 ## 🔭 Future Features <a name="future-features"></a>
 
 - [ ] _User can delete_
-- [ ] _User can public categories_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -175,11 +146,8 @@ If you like this project, give it a ⭐️!
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to extend my sincere thanks and credit to [Gregoire Vella](https://www.behance.net/gregoirevella) for the inspiring design that served as the foundation for the creation of the Crypto-place app.
+I would like to extend my sincere thanks to Microverse.
 
-Original design idea by [Gregoire Vella on Behance](https://www.behance.net/gregoirevella).
-
-Thanks Microverse for giving me this opportunity to work on this wonderful project.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
