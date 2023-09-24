@@ -40,7 +40,7 @@
 
 # 📖 [API-app] <a name="about-project"></a>
 
-The API-app app is a mobile web application where you can manage your budget: you have a list of transactions associated with a category, so that you can see how much money you spent and on what. 
+The API-app is an API project to show the API of Car.
 
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -54,9 +54,8 @@ The API-app app is a mobile web application where you can manage your budget: yo
 
 ### Key Features <a name="key-features"></a>
 *Allows the user to:*
-- *register and log in, so that the data is private to them.*
-- *introduce new transactions associated with a category.*
-- *see the money spent on each category.*
+- *Get all cars details using API.*
+- *get specific car by id*
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
